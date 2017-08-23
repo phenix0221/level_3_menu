@@ -3,7 +3,7 @@
 
 import json
 import os
-import create_menu.py
+
 
 def load_file():
     # 加载本地json文件
